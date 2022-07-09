@@ -1,7 +1,5 @@
-<h1 align="center">Hi 👋, I'm thirawat27</h1>
+<h1 align="center">Hi ☕, I'm thirawat27</h1>
 <h3 align="center">A passionate frontend developer from Thailand 🇹🇭</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thirawat27" alt="thirawat27" /></a> </p>
 
 - 💻 I’m currently working on thailand 🇹🇭 [Thailand](https://www.google.com/maps/place/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%97%E0%B8%A8%E0%B9%84%E0%B8%97%E0%B8%A2/@13.0003076,96.992706,6z/data=!3m1!4b1!4m5!3m4!1s0x304d8df747424db1:0x9ed72c880757e802!8m2!3d15.870032!4d100.992541)
 
@@ -20,7 +18,7 @@
 <a href="https://fb.com/thirawat sinlapasomsak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="thirawat sinlapasomsak" height="30" width="40" /></a>
 <a href="https://instagram.com/thirawat_sinlapasomsak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thirawat_sinlapasomsak" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/thirawat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="thirawat" height="30" width="40" /></a>
-<a href="https://discord.gg/#6538" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#6538" height="30" width="40" /></a>
+<a href="https://discord.gg/Thirawat#6538" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Thirawat#6538" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
