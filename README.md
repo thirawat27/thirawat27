@@ -18,7 +18,7 @@
 <a href="https://www.facebook.com/thun.thirawat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="thirawat sinlapasomsak" height="30" width="40" /></a>
 <a href="https://instagram.com/thirawat_sinlapasomsak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thirawat_sinlapasomsak" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCjca1d6vgTYec-7m_7tZK1Q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="thirawat" height="30" width="40" /></a>
-<a href="https://discord.gg/C3NyaqdQfg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Thirawat#6538" height="30" width="40" /></a>
+<a href="https://discord.gg/C3NyaqdQfg" target="blank"><img align="center" src="https://media.discordapp.net/attachments/957706188886249502/995150411298250843/discord_logo_icon.png" alt="Thirawat#6538" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
