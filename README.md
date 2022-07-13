@@ -13,8 +13,8 @@
 
 - 📧 My email **thunthirawas@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://fb.com/thirawat sinlapasomsak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="thirawat sinlapasomsak" height="30" width="40" /></a>
 <a href="https://instagram.com/thirawat_sinlapasomsak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thirawat_sinlapasomsak" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/thirawat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="thirawat" height="30" width="40" /></a>
