@@ -26,4 +26,4 @@
 
 <p><img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=thirawat27&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="thirawat27"/></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username" alt="thirawat27" /></p>
+<p>&nbsp;<img align="right" src="http://github-readme-streak-stats.herokuapp.com?user=thirawat27&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="thirawat27" /></p>
