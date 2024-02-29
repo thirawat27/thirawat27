@@ -69,10 +69,10 @@
 
  <h2>Github  Status ✅</h2><br>
 
-| Trophy | Stats |
+| Github Trophy | Github Stats |
 |---|---|
 | ![thirawat27's Trophy](https://github-profile-trophy.vercel.app/?username=thirawat27&theme=algolia&row=2&column=3&border_radius=45) | ![thirawat27's Stats](https://github-readme-stats.vercel.app/api?username=thirawat27&theme=algolia&show_icons=true&hide_border=false&count_private=true&border_radius=20&date_format=j%20M%5B%20Y%5D) |
 
-| Top Languages | Streak |
+| Top Languages | Github Streak |
 |---|---|
 | ![thirawat27's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thirawat27&theme=algolia&show_icons=true&hide_border=false&layout=compact&border_radius=20&date_format=j%20M%5B%20Y%5D) | ![thirawat27's Streak](https://github-readme-streak-stats.herokuapp.com/?user=thirawat27&theme=algolia&hide_border=false&border_radius=20&date_format=j%20M%5B%20Y%5D) |
