@@ -52,14 +52,14 @@
 <h2 align="center">Programming Languages 💻</h2>
 <p align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,bootstrap,c,cpp,discordjs,go,mysql,jquery,kotlin,lua,npm,php,py,react,rust,vite,r,md,qbasic)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,json,bootstrap,c,cpp,discordjs,go,mysql,jquery,kotlin,lua,npm,php,py,react,rust,vite,r,md,qbasic)](https://skillicons.dev)
 
 </p><br>
 
 <h2 align="center">Dev Tools ⚙️</h2>
 <p align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=discord,cloudflare,workers,firebase,figma,git,godot,kali,ai,idea,replit,stackoverflow,vscode,visualstudio,arduino)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=discord,cloudflare,workers,firebase,figma,git,godot,kali,ai,idea,replit,stackoverflow,vscode,visualstudio,arduino,firebase)](https://skillicons.dev)
 
 </p><br>
 
