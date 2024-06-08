@@ -52,7 +52,7 @@
 <h2 align="center">Programming Languages 💻</h2>
 <p align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,bootstrap,c,cpp,discordjs,go,mysql,jquery,kotlin,lua,npm,php,py,react,rust,vite,r,md,qbasic)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,bootstrap,c,cpp,discordjs,mysql,jquery,kotlin,lua,npm,php,py,react,rust,vite,r,md,qbasic)](https://skillicons.dev)
 
 </p><br>
 
