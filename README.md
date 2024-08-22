@@ -56,10 +56,10 @@
 
 </p><br>
 
-<h2 align="center">library 📚 & Framework2 🖼️</h2>
+<h2 align="center">library 📚 & Framework 🖼️</h2>
 <p align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=bootstrap,discordjs,jquery,npm,react,vite,pnpm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,discordjs,jquery,npm,react,pnpm)](https://skillicons.dev)
 
 </p><br>
 
