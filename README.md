@@ -56,7 +56,7 @@
 
 </p><br>
 
-<h2 align="center">library 📚 & Framework2 🖼️>
+<h2 align="center">library 📚 & Framework2 🖼️</h2>
 <p align="center">
 
 [![My Skills](https://skillicons.dev/icons?i=bootstrap,discordjs,jquery,npm,php,py,react,vite,pnpm)](https://skillicons.dev)
