@@ -52,21 +52,21 @@
 <h2 align="center">Programming Languages 💻</h2>
 <p align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,c,cpp,mysql,kotlin,lua,php,py,rust,r,qbasic)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,c,cpp,mysql,kotlin,lua,php,py,r)](https://skillicons.dev)
 
 </p><br>
 
 <h2 align="center">library 📚 & Framework2 🖼️</h2>
 <p align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=bootstrap,discordjs,jquery,npm,php,py,react,vite,pnpm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,discordjs,jquery,npm,react,vite,pnpm)](https://skillicons.dev)
 
 </p><br>
 
 <h2 align="center">Dev Tools ⚙️</h2>
 <p align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=discord,cloudflare,vite,workers,firebase,figma,git,godot,kali,ai,idea,replit,stackoverflow,vscode,visualstudio,arduino,firebase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=discord,cloudflare,vite,workers,firebase,figma,git,godot,kali,ai,idea,replit,stackoverflow,vscode,visualstudio,arduino)](https://skillicons.dev)
 
 </p><br>
 
