@@ -59,7 +59,7 @@
 <h2 align="center">library 📚 & Framework 🖼️</h2>
 <p align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=bootstrap,jquery,npm,react,pnpm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,jquery,npm,react,pnpm,tailwind)](https://skillicons.dev)
 
 </p><br>
 
