@@ -82,4 +82,4 @@
 
 | Top Languages | Github Streak |
 |---|---|
-| ![thirawat27's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thirawat27&theme=algolia&show_icons=true&hide_border=false&layout=compact&border_radius=20&date_format=j%20M%5B%20Y%5D) | ![thirawat27's Streak](https://github-readme-streak-stats.herokuapp.com?user=thirawat27&theme=algolia&border_radius=20&locale=th) |
+| ![thirawat27's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thirawat27&theme=algolia&show_icons=true&hide_border=false&layout=compact&border_radius=20&date_format=j%20M%5B%20Y%5D) | ![thirawat27's Streak](https://github-readme-streak-stats.herokuapp.com?user=thirawat27&theme=algolia&border_radius=20&locale=en) |
