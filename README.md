@@ -8,7 +8,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=thirawat27&label=Profile%20views&color=7469B6&style=for-the-badge"><br>
 <a href="https://www.facebook.com/thirawat.sinlapasomsak.27/" target="blank"><img  src="https://img.shields.io/badge/Facebook-0866FF.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="thirawat sinlapasomsak"/></a>&nbsp;
-<a href="https://instagram.com/me._.thirawat" target="blank"><img 
+<a href="https://instagram.com/t.thirawat_27" target="blank"><img 
  src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="t.thirawat_27"/></a>&nbsp;
  <a href="https://dev.to/thirawat27" target="blank"><img 
  src="https://img.shields.io/badge/dev.to-0A0A0A.svg?style=for-the-badge&logo=devdotto&logoColor=white" alt="thirawat27"/></a>&nbsp;
