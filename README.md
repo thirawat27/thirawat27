@@ -66,7 +66,7 @@
 <h2 align="center">Dev Tools ⚙️</h2>
 <p align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=discord,cloudflare,vite,workers,firebase,figma,git,godot,kali,ai,idea,replit,stackoverflow,vscode,visualstudio,docker,arduino,linux,windows,ubuntu)]()
+[![My Skills](https://skillicons.dev/icons?i=discord,cloudflare,vite,workers,firebase,figma,git,godot,kali,ai,idea,replit,stackoverflow,vscode,visualstudio,arduino,linux,windows,ubuntu)]()
 
 </p><br>
 
