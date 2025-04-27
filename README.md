@@ -66,14 +66,14 @@
 <h2 align="center">library 📚 & Framework 🖼️</h2>
 <p align="center">
 
-[![library & Framework](https://skillicons.dev/icons?i=bootstrap,jquery,npm,react,pnpm,tailwind,nextjs)]()
+[![library & Framework](https://skillicons.dev/icons?i=npm,pnpm,bootstrap,tailwind,jquery,react,nextjs)]()
 
 </p><br>
 
 <h2 align="center">Dev Tools ⚙️</h2>
 <p align="center">
 
-[![Dev Tools](https://skillicons.dev/icons?i=discord,cloudflare,vite,workers,firebase,figma,git,godot,kali,ai,idea,replit,stackoverflow,vscode,visualstudio,arduino,linux,windows,ubuntu,postman)]()
+[![Dev Tools](https://skillicons.dev/icons?i=windows,linux,ubuntu,kali,discord,cloudflare,vite,workers,firebase,figma,git,godot,ai,idea,replit,stackoverflow,vscode,visualstudio,arduino,postman,vercel,netlify)]()
 
 </p><br>
 
