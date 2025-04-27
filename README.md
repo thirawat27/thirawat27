@@ -52,21 +52,28 @@
 <h2 align="center">Programming Languages 💻</h2>
 <p align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,c,cpp,mysql,kotlin,lua,php,py,sqlite)]()
+[![Programming Languages](https://skillicons.dev/icons?i=html,css,sass,js,ts,c,cpp,kotlin,lua,php,py)]()
+
+</p><br>
+
+<h2 align="center">Database 🗂️</h2>
+<p align="center">
+
+[![Database](https://skillicons.dev/icons?i=mysql,sqlite,mongodb)]()
 
 </p><br>
 
 <h2 align="center">library 📚 & Framework 🖼️</h2>
 <p align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=bootstrap,jquery,npm,react,pnpm,tailwind,nextjs)]()
+[![library & Framework](https://skillicons.dev/icons?i=bootstrap,jquery,npm,react,pnpm,tailwind,nextjs)]()
 
 </p><br>
 
 <h2 align="center">Dev Tools ⚙️</h2>
 <p align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=discord,cloudflare,vite,workers,firebase,figma,git,godot,kali,ai,idea,replit,stackoverflow,vscode,visualstudio,arduino,linux,windows,ubuntu,postman)]()
+[![Dev Tools](https://skillicons.dev/icons?i=discord,cloudflare,vite,workers,firebase,figma,git,godot,kali,ai,idea,replit,stackoverflow,vscode,visualstudio,arduino,linux,windows,ubuntu,postman)]()
 
 </p><br>
 
