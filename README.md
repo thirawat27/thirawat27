@@ -73,7 +73,7 @@
 <h2 align="center">Dev Tools ⚙️</h2>
 <p align="center">
 
-[![Dev Tools](https://skillicons.dev/icons?i=windows,linux,ubuntu,kali,discord,cloudflare,vite,workers,firebase,figma,git,godot,ai,idea,replit,stackoverflow,vscode,visualstudio,arduino,postman,vercel,netlify)]()
+[![Dev Tools](https://skillicons.dev/icons?i=windows,linux,ubuntu,centos,kali,discord,cloudflare,vite,workers,firebase,figma,git,godot,ai,idea,replit,stackoverflow,vscode,visualstudio,arduino,postman,vercel,netlify)]()
 
 </p><br>
 
