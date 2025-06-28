@@ -52,7 +52,7 @@
 <h2 align="center">Programming Languages 💻</h2>
 <p align="center">
 
-[![Programming Languages](https://skillicons.dev/icons?i=html,css,sass,js,ts,c,cpp,kotlin,lua,php,py)]()
+[![Programming Languages](https://skillicons.dev/icons?i=html,css,sass,js,ts,c,cpp,lua,php,py)]()
 
 </p><br>
 
