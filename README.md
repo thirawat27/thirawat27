@@ -85,8 +85,8 @@
 
 | Github Trophy | Github Stats |
 |---|---|
-| ![thirawat27's Trophy](https://github-profile-trophy.vercel.app/?username=thirawat27&theme=tokyonight&row=2&column=3&border_radius=45) | ![thirawat27's Stats](https://github-readme-stats.vercel.app/api?username=thirawat27&theme=tokyonight&show_icons=true&hide_border=false&count_private=true&border_radius=20&date_format=j%20M%5B%20Y%5D) |
+| ![thirawat27's Trophy](https://nirzak-trophies.vercel.app/?username=thirawat27&theme=tokyonight&row=2&column=3&border_radius=45) | ![thirawat27's Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=thirawat27&theme=tokyonight&show_icons=true&hide_border=false&count_private=true&border_radius=20&date_format=j%20M%5B%20Y%5D) |
 
 | Top Languages | Github Streak |
 |---|---|
-| ![thirawat27's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thirawat27&theme=tokyonight&show_icons=true&hide_border=false&layout=compact&border_radius=20&date_format=j%20M%5B%20Y%5D) | ![thirawat27's Streak](https://github-readme-streak-stats.herokuapp.com?user=thirawat27&theme=tokyonight&border_radius=20&locale=en) |
+| ![thirawat27's Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=thirawat27&theme=tokyonight&show_icons=true&hide_border=false&layout=compact&border_radius=20&date_format=j%20M%5B%20Y%5D) | ![thirawat27's Streak](https://streak-stats.demolab.com?user=thirawat27&theme=tokyonight&border_radius=20&locale=en) ||
