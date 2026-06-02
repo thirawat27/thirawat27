@@ -26,30 +26,24 @@
 <h1 align="center"><a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=A9B1D6&background=14132100&center=true&vCenter=true&width=435&lines=Hello+everyone+%F0%9F%91%8B;" alt="Typing SVG" />
   </a></h1>
-<h3 align="left">A passionate developer from Thailand 🇹🇭</h3>
+  
+### 🇹🇭 A passionate developer from Thailand
 
-- 🪴 I’m currently working on thailand[Thailand](https://www.google.com/maps/place/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%97%E0%B8%A8%E0%B9%84%E0%B8%97%E0%B8%A2/@13.0003076,96.992706,6z/data=!3m1!4b1!4m5!3m4!1s0x304d8df747424db1:0x9ed72c880757e802!8m2!3d15.870032!4d100.992541)
-
-- 💻 All of my projects are available at [https://github.com/thirawat27/](https://github.com/thirawat27/)
-
+* 🪴 Currently exploring and developing tech projects locally in Thailand.
+* 💻 Discover all of my projects and repositories at [github.com/thirawat27](https://github.com/thirawat27/)
 - ☕ Donate [buy me a coffee](https://www.buymeacoffee.com/thirawat27)
   
-<h2>Important Goals 📌</h2>
-
-<ul>
-   <li><strong>Share work and knowledge 📚 :</strong></li>
-     <ul>
-       <li>Share your projects, code, and articles</li>
-       <li>Answer questions and help others</li>
-       <li>Write a good README and documentation</li>
-     </ul><br>
-   <li><strong>Learn from the Github community 🔍 :</strong></li>
-     <ul>
-       <li>Follow interesting open source projects</li>
-       <li>Read other people's code and learn from their techniques</li>
-       <li>Join the discussion and ask questions</li>
-     </ul>
-</ul>
+> ## 📌 Important Goals
+>
+> ### 📚 Share Work & Knowledge
+> * Share projects, source code, and tech articles.
+> * Help others by answering questions and contributing to solutions.
+> * Maintain high-quality READMEs and detailed documentation.
+>
+> ### 🔍 Learn from the GitHub Community
+> * Explore and follow interesting open-source initiatives.
+> * Analyze others' codebases to adopt advanced techniques.
+> * Join discussions, collaborate, and keep learning every day.
 
 <h2 align="center">Programming Languages 💻</h2>
 <p align="center">
