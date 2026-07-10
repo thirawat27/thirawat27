@@ -48,7 +48,7 @@
 <h2 align="center">Programming Languages 💻</h2>
 <p align="center">
 
-[![Programming Languages](https://skillicons.dev/icons?i=html,css,sass,js,ts,c,cpp,rust,zig,wasm,lua,php,py,go)]()
+[![Programming Languages](https://skillicons.dev/icons?i=html,css,sass,js,ts,c,cpp,rust,zig,lua,php,py,go)]()
 
 </p><br>
 
