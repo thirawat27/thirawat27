@@ -48,7 +48,7 @@
 <h2 align="center">Programming Languages 💻</h2>
 <p align="center">
 
-[![Programming Languages](https://skillicons.dev/icons?i=html,css,sass,js,ts,c,cpp,lua,php,py,go)]()
+[![Programming Languages](https://skillicons.dev/icons?i=html,css,sass,js,ts,c,cpp,rust,zig,lua,php,py,go)]()
 
 </p><br>
 
@@ -69,7 +69,7 @@
 <h2 align="center">Dev Tools ⚙️</h2>
 <p align="center">
 
-[![Dev Tools](https://skillicons.dev/icons?i=windows,linux,ubuntu,kali,nodejs,discord,cloudflare,vite,workers,firebase,figma,docker,git,godot,ai,idea,replit,stackoverflow,vscode,visualstudio,arduino,postman,vercel,netlify)]()
+[![Dev Tools](https://skillicons.dev/icons?i=windows,linux,ubuntu,kali,nodejs,discord,cloudflare,vite,workers,firebase,figma,docker,git,action,godot,ai,idea,replit,stackoverflow,vscode,visualstudio,arduino,postman,vercel,netlify)]()
 
 </p><br>
 
