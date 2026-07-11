@@ -1,12 +1,13 @@
  <p align="center">
  <a href="https://gitroll.io/profile/uJlzC1Sb85qgIOR2NJ1meNny8seo1" target="_blank">
-  <img  height="300px"  src="https://gitroll.io/api/badges/profiles/v1/uJlzC1Sb85qgIOR2NJ1meNny8seo1?theme=tokyoNight" alt="GitRoll Profile Badge"/>
+  <img  height="250px"  src="https://gitroll.io/api/badges/profiles/v1/uJlzC1Sb85qgIOR2NJ1meNny8seo1?theme=tokyoNight" alt="GitRoll Profile Badge"/>
  </a>
 </p>
 
 <div align="center" >
 
 <img src="https://komarev.com/ghpvc/?username=thirawat27&label=Profile%20views&color=7469B6&style=for-the-badge"><br>
+
 <a href="https://www.facebook.com/thirawat.sinlapasomsak.27/" target="blank"><img  src="https://img.shields.io/badge/Facebook-0866FF.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="thirawat sinlapasomsak"/></a>&nbsp;
 <a href="https://instagram.com/t.thun_27" target="blank"><img 
  src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="t.thun_27"/></a>&nbsp;
