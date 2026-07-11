@@ -1,7 +1,7 @@
  <p align="center">
-  <a href="https://discord.com/users/715845203268993046">
-    <img height="250px" src="https://lanyard.cnrad.dev/api/715845203268993046?showDisplayName=true&hideDecoration=true&theme=dark&borderRadius=25px&bg=17153B" />
-  </a>
+ <a href="https://gitroll.io/profile/uJlzC1Sb85qgIOR2NJ1meNny8seo1" target="_blank">
+  <img  height="300px"  src="https://gitroll.io/api/badges/profiles/v1/uJlzC1Sb85qgIOR2NJ1meNny8seo1?theme=tokyoNight" alt="GitRoll Profile Badge"/>
+ </a>
 </p>
 
 <div align="center" >
