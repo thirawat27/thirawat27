@@ -82,8 +82,8 @@
 
 | Github Trophy | Github Stats |
 |---|---|
-| ![thirawat27's Trophy](https://nirzak-trophies.vercel.app/?username=thirawat27&theme=tokyonight&row=2&column=3&border_radius=45) | ![thirawat27's Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=thirawat27&theme=tokyonight&show_icons=true&hide_border=false&count_private=true&border_radius=20&date_format=j%20M%5B%20Y%5D) |
+| ![thirawat27's Trophy](https://nirzak-trophies.vercel.app/?username=thirawat27&theme=tokyonight&row=2&column=3&border_radius=45) | ![thirawat27's Stats](https://github-stats-extended.vercel.app/api?username=thirawat27&rank_icon=github&show_icons=true&include_all_commits=true&theme=tokyonight) |
 
 | Top Languages | GitHub Activity Graph |
 |---|---|
-| ![thirawat27's Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=thirawat27&theme=tokyonight&show_icons=true&hide_border=false&layout=compact&border_radius=20&date_format=j%20M%5B%20Y%5D) | ![thirawat27's GitHub Activity Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thirawat27&theme=tokyonight) ||
+| ![thirawat27's Top Languages](https://github-stats-extended.vercel.app/api/top-langs?username=thirawat27&layout=compact&langs_count=10&theme=tokyonight) | ![thirawat27's GitHub Activity Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thirawat27&theme=tokyonight) ||
